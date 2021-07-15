@@ -1,4 +1,3 @@
-# Hello!
 ### 👋 Hi, my name is Allysa!
 My education background is chemical engineering but I really enjoy software development so I could claim my self as junior/ entry level software developer. 😀
 <br>
