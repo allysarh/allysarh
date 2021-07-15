@@ -12,6 +12,7 @@ There are still a lot that I have not learned yet, and I'm happy to learn more a
 <br>
 
 ### Anyway, thank you for coming!
+If you have any question about me or my project, feel free to contact me!
 
 - 📫 The best way to reach me is via email: allysa.rahagustiani@gmail.com 
 
