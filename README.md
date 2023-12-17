@@ -1,14 +1,5 @@
 ### 👋 Hi, my name is Allysa!
-My education background is chemical engineering but I really enjoy software development so I could claim my self as junior/ entry level software developer. 😀
-<br>
-- 👀 I’m interested in web app development using react.js and node.js
-- 🌱 I’m currently learning to be more fluent by creating some projects also cloning some web app (and mobile app using react native) 
-- 💞️ I’m looking to collaborate on more projects that using SCRUM in order to get more familiar to work in a team! 
-<br>
-I made some projects and existed in this repository, feel free too look about it!
-<br>
-There are still a lot that I have not learned yet, and I'm happy to learn more and more 👩🏼‍🏫
-<br>
+I'm currently working on low code development using microsoft power platform, RPA, PCF (typescript) and more 😊
 
 ### Anyway, thank you for stopping by!🚁
 If you have any question about me or my project, kindly let me know!
