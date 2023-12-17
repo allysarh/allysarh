@@ -1,7 +1,7 @@
 ### 👋 Hi, my name is Allysa!
 I'm currently working on low code development using microsoft power platform, RPA, PCF (typescript) and more 😊
 
-### Anyway, thank you for stopping by!🚁
+### Thank you for stopping by!🚁
 If you have any question about me or my project, kindly let me know!
 
 - 📫 The best way to reach me is via email: allysa.rahagustiani@gmail.com 
